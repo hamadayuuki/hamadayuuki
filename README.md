@@ -4,7 +4,7 @@
 
   <div style="float:right display:table-cell; width:45%;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="45%" src="https://github-readme-stats.vercel.app/api?username=hamadayuuki&count_private=true&show_icons=true" />
+      <img width="80%" src="https://github-readme-stats.vercel.app/api?username=hamadayuuki&count_private=true&show_icons=true" />
     </a>
   </div>
 
