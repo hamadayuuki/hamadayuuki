@@ -14,7 +14,7 @@
     <a href="https://github.com/anuraghazra/convoychat">
       <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamadayuuki&langs_count=3&hide=Jupyter Notebook&layout=compact" />
     </a>
-    <img width="45%" src="attentionComment.png" />
+    <img width="45%" src="attentionComment2.png" />
   </div>
 
 </div>
