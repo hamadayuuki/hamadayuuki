@@ -5,5 +5,5 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamadayuuki&langs_count=4&hide=jupyternotebook" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamadayuuki&langs_count=3&hide=Jupyter Notebook" />
 </a>
