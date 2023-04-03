@@ -1,23 +1,13 @@
 ### Hi there 👋
 
-<div style="display:table; width:100%; margin:5px">
 
-  <div style="float:right display:table-cell; width:45%;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="60%" src="https://github-readme-stats.vercel.app/api?username=hamadayuuki&count_private=true&show_icons=true" />
-    </a>
-  </div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamadayuuki&count_private=true&show_icons=true" />
+</a> 
 
-  <br>
-  
-<!--
-  <div style="float:left display:table-cell; width:45%;">
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamadayuuki&langs_count=3&hide=Jupyter Notebook&layout=compact" />
-    </a>
-    <img width="45%" src="attentionComment2.png" />
-  </div>
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamadayuuki&hide=Jupyter%20Notebook&layout=compact" />
+</a>
 
 ### Introduction
 - I'm a first-year master's student at Kagoshima University.
@@ -41,5 +31,3 @@
 - [Wantedly](https://www.wantedly.com/id/hamadayuuki)
 - [Lapras](https://lapras.com/person)
 - [Twitter](https://twitter.com/ios_hamada)
-
-</div>
