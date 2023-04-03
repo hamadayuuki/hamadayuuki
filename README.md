@@ -29,32 +29,17 @@
 - [Dieter - ダイエット応援チャットアプリ]: It is an app that connects people who are working on dieting. I have already published in [AppStore](https://apps.apple.com/jp/app/dieter-%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88%E5%BF%9C%E6%8F%B4%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%82%A2%E3%83%97%E3%83%AA/id1563687645)!
 - [株式会社ゆめみ iOS エンジニアコードチェック課題](https://github.com/hamadayuuki/yumemi-ios-engineer-codecheck): GitHub Viewer app developed for code test of Yumemi inc.
 
-<!--
 ### Intern
-- 2020/2/19~2020/3/27 [stmn, inc](https://stmn.co.jp/) working Intern (iOS Engineer)
-- 2021/11/24~2021/12/7 [Yumemi, inc](https://www.yumemi.co.jp/) working Intern (iOS Engineer)
-- 2022/4/1~2022/6/30 [Mercari, inc](https://about.mercari.com/) working Intern Software Engineer (iOS)
-- 2022/7/6~2022/7/29 [pixiv, inc](https://www.pixiv.co.jp/) working Intern Mobile Engineer (iOS)
-- 2022/8/1~2022/8/5 [cybozu, inc](https://cybozu.co.jp/) working Intern Mobine Engineer (iOS)
-
-### Conference
-- iOSDC Japan 2022 [大学で出席管理アプリ・掲示板閲覧アプリを開発・運用している学生の話](https://fortee.jp/iosdc-japan-2022/proposal/f4ca136c-710e-4373-8b4c-1a4265ff5ed7)
-
-### Qualifications
-- TOEIC L&R 840
-- ITパスポート (Information Technology Passport Examination)
-- 基本情報技術者試験 (Fundamental Information Technology Engineer Examination）
-- 応用情報技術者試験 (Applied Information Technology Engineer Examination)
-    
-### AtCoder
-
-![Badge](https://cp-logo.vercel.app/atcoder/kntkymt)
-
-- I use Swift on AtCoder.
-    - Article for AtCoder & Swift Introduction: [(Qiita)[AtCoder]Swiftでも競プロがしたい！](https://qiita.com/kntkymt/items/4f02c6b90462f354de6d)
+- 2021/8/30~2021/9/10 [Yahoo!Japan](https://about.yahoo.co.jp/) working Mobine Engineer (iOS)
+- 2022/8/1~2022/8/5 [cybozu](https://cybozu.co.jp/) working Intern Mobine Engineer (iOS)
+- 2022/8/15~2022/8/19 [Nikkei](https://www.nikkei.com/) Hackathon Intern
+- 2022/11~now [Nikkei](https://about.mercari.com/) working Intern iOS Engineer (iOS)
+- 2023/3/22~2023/3/31 [pixiv](https://www.pixiv.co.jp/) working Intern Mobile Engineer (iOS)
 
 ### Links
-- [Qiita](https://qiita.com/kntkymt)
--->
+- [Qiita](https://qiita.com/Soccerboy_Hamada)
+- [Wantedly](https://www.wantedly.com/id/hamadayuuki)
+- [Lapras](https://lapras.com/person)
+- [Twitter](https://twitter.com/ios_hamada)
 
 </div>
