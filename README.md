@@ -25,6 +25,7 @@
 - 2022/8/15~2022/8/19 [Nikkei](https://www.nikkei.com/) Hackathon Intern
 - 2022/11~now [Nikkei](https://about.mercari.com/) working Intern iOS Engineer (iOS)
 - 2023/3/22~2023/3/31 [pixiv](https://www.pixiv.co.jp/) working Intern Mobile Engineer (iOS)
+- 2023/4/5~2023/4/18 [CybarAgent](https://www.cyberagent.co.jp/) working Intern Mobile Engineer (iOS)
 
 ### Links
 - [Qiita](https://qiita.com/Soccerboy_Hamada)
