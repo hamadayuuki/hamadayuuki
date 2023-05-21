@@ -15,7 +15,7 @@
 
 ### Products
 - [TIMELAB](https://github.com/hamadayuuki/timelab): It is an app that aims to "give meaning to the time spent in the lab. I have already published in [AppStore](https://apps.apple.com/jp/app/timelab/id6446396011)!
-- [催促くん - お金の貸し借りをもっと自由に](https://github.com/TeamAppleMan/saisokukunn) : We won the Excellence Award at the [技育展2023](https://talent.supporterz.jp/geekten/2022/exhibition.html#theme15). This app was created by 3 student iOS engineers. It is an app that prompts you to pay back money on behalf of humans!
+- [催促くん - お金の貸し借りをもっと自由に](https://github.com/TeamAppleMan/saisokukunn) : We won the Excellence Award at the [技育展2023](https://talent.supporterz.jp/geekten/2022/exhibition.html#theme15). This app was created by 3 student iOS engineers. It is an app that prompts you to pay back money on behalf of humans
 - [Dieter - ダイエット応援チャットアプリ](https://apps.apple.com/jp/app/dieter-%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88%E5%BF%9C%E6%8F%B4%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%82%A2%E3%83%97%E3%83%AA/id1563687645): It is an app that connects people who are working on dieting. I have already published in [AppStore](https://apps.apple.com/jp/app/dieter-%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88%E5%BF%9C%E6%8F%B4%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%82%A2%E3%83%97%E3%83%AA/id1563687645)!
 - [株式会社ゆめみ iOS エンジニアコードチェック課題](https://github.com/hamadayuuki/yumemi-ios-engineer-codecheck): GitHub Viewer app developed for code test of Yumemi inc.
 
