@@ -26,6 +26,9 @@
 - 2022/11~now [Nikkei](https://about.mercari.com/) working Intern iOS Engineer (iOS)
 - 2023/3/22~2023/3/31 [pixiv](https://www.pixiv.co.jp/) working Intern Mobile Engineer (iOS)
 - 2023/4/5~2023/4/18 [CybarAgent](https://www.cyberagent.co.jp/) working Intern Mobile Engineer (iOS)
+- 2023/6/19~2023/6/30 [株式会社ゆめみ](https://www.yumemi.co.jp/) working Intern Mobile Engineer (iOS)
+- 2023/8/1~2023/8/29 [ZOZO](https://corp.zozo.com/) working Intern Mobile Engineer (iOS)
+- 2022/8/30~2022/9/15 [LINE](https://linecorp.com/ja/) Hackathon Intern Mobile Engineer (iOS)
 
 ### Links
 - [Qiita](https://qiita.com/Soccerboy_Hamada)
